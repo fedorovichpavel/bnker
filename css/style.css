@@ -7415,7 +7415,7 @@ button:focus {
 
 @media (max-width: 1000px) {
   .header-subtitle-p {
-    color: white;
+    color: #fff !important;
     background: rgba(0, 0, 0, 0.6);
     border-radius: 5px;
   }
